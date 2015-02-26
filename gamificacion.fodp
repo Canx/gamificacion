@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2015-02-17T22:58:43.252878065</meta:creation-date><meta:editing-duration>PT6H21M38S</meta:editing-duration><meta:editing-cycles>17</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><dc:date>2015-02-25T15:11:07.811280029</dc:date><meta:document-statistic meta:object-count="348"/></office:meta>
+ <office:meta><meta:creation-date>2015-02-17T22:58:43.252878065</meta:creation-date><meta:editing-duration>PT6H30M28S</meta:editing-duration><meta:editing-cycles>19</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:date>2015-02-26T11:46:26.375915101</dc:date><meta:document-statistic meta:object-count="348"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-306</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-3871</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">35844</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21668</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-434</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-14809</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">35843</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">21667</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -28,8 +28,8 @@
      <config:config-item config:name="NoAttribs" config:type="boolean">false</config:config-item>
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">26</config:config-item>
+     <config:config-item config:name="PageKind" config:type="short">1</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">27</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-306</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-3871</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">35845</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">21669</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-434</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-14809</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">50825</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">30724</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">200</config:config-item>
@@ -96,7 +96,7 @@
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">ML-1630-Series</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">qAH+/01MLTE2MzAtU2VyaWVzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpNTC0xNjMwLVNlcmllcwAAAAAAAAAAAAAAAAAWAAMAzgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9TUwtMTYzMC1TZXJpZXMKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkE0AElucHV0U2xvdDpBdXRvAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">qAH+/01MLTE2MzAtU2VyaWVzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpNTC0xNjMwLVNlcmllcwAAAAAAAAAAAAAAAAAWAAMAzgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9TUwtMTYzMC1TZXJpZXMKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhCkR1cGxleDpOb25lAElucHV0U2xvdDpBdXRvAFBhZ2VTaXplOkE0AAASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SlidesPerHandout" config:type="short">6</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
@@ -574,9 +574,6 @@
   <style:style style:name="gr33" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:fill-color="#00cc00" draw:opacity="50%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="17.15cm" fo:min-width="8.9cm" draw:shadow-opacity="50%"/>
   </style:style>
-  <style:style style:name="gr34" style:family="graphic" style:parent-style-name="objectwithoutfill">
-   <style:graphic-properties svg:stroke-width="0.494cm" draw:marker-start-width="0.938cm" draw:marker-end-width="0.938cm" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.369cm" fo:padding-bottom="0.369cm" fo:padding-left="0.494cm" fo:padding-right="0.494cm"/>
-  </style:style>
   <style:style style:name="pr1" style:family="presentation" style:parent-style-name="Predeterminado-backgroundobjects">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="false" fo:min-height="1.449cm"/>
   </style:style>
@@ -615,6 +612,9 @@
   </style:style>
   <style:style style:name="pr13" style:family="presentation" style:parent-style-name="Predeterminado-subtitle">
    <style:graphic-properties draw:fill-color="#ffffff" fo:min-height="2.533cm"/>
+  </style:style>
+  <style:style style:name="pr14" style:family="presentation" style:parent-style-name="Predeterminado-notes">
+   <style:graphic-properties draw:fill-color="#ffffff" fo:min-height="14.693cm"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph">
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
@@ -752,11 +752,15 @@
    <style:text-properties fo:font-size="72pt" fo:letter-spacing="-0.106cm" style:font-size-asian="72pt" style:font-size-complex="72pt"/>
   </style:style>
   <style:style style:name="P34" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#ffffff"/>
    <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph">
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#ffffff"/>
-   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
@@ -792,6 +796,9 @@
    <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -896,22 +903,22 @@
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="8.999cm" svg:height="6.749cm" svg:x="11cm" svg:y="20.05cm"/>
    <draw:frame draw:style-name="gr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="0cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.215cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:page-number>&lt;número&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:page-number>&lt;número&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
   </style:handout-master>
@@ -941,19 +948,22 @@
    <draw:frame presentation:style-name="Predeterminado-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
+   <draw:frame presentation:style-name="Predeterminado-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
+    <draw:text-box/>
+   </draw:frame>
    <draw:frame presentation:style-name="pr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="1.4cm" svg:y="19.131cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr1" draw:text-style-name="P6" draw:layer="backgroundobjects" svg:width="8.875cm" svg:height="1.448cm" svg:x="9.576cm" svg:y="19.131cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P5"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P5"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="20.076cm" svg:y="19.131cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:page-number>&lt;número&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:page-number>&lt;número&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
@@ -980,24 +990,27 @@
     <draw:frame presentation:style-name="Predeterminado-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
     </draw:frame>
+    <draw:frame presentation:style-name="Predeterminado-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:text-box/>
+    </draw:frame>
     <draw:frame presentation:style-name="pr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="0cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr3" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.215cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr3" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:page-number>&lt;número&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;número&gt;</text:page-number></text:span><text:page-number>&lt;número&gt;</text:page-number></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -40961,7 +40974,6 @@
      </anim:seq>
     </anim:par>
     <presentation:notes draw:style-name="dp2">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="26" presentation:class="page"/>
      <draw:frame presentation:style-name="pr6" draw:text-style-name="P16" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
       <draw:text-box>
@@ -41114,14 +41126,6 @@
      <text:p text:style-name="P8"><text:span text:style-name="T10">BRAIN</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:g xml:id="id15" draw:id="id15">
-     <draw:line draw:style-name="gr34" draw:text-style-name="P15" draw:layer="layout" svg:x1="15.2cm" svg:y1="1cm" svg:x2="27cm" svg:y2="19.8cm">
-      <text:p/>
-     </draw:line>
-     <draw:line draw:style-name="gr34" draw:text-style-name="P15" draw:layer="layout" svg:x1="27cm" svg:y1="0.8cm" svg:x2="15.6cm" svg:y2="20cm">
-      <text:p/>
-     </draw:line>
-    </draw:g>
     <anim:par presentation:node-type="timing-root">
      <anim:seq presentation:node-type="main-sequence">
       <anim:par smil:begin="next">
@@ -41146,16 +41150,6 @@
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-fade-in-and-zoom">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id15" smil:attributeName="visibility" smil:to="visible"/>
-         <anim:animate smil:dur="0.5s" smil:fill="hold" smil:targetElement="id15" smil:attributeName="width" smil:values="0;width" smil:keyTimes="0;1"/>
-         <anim:animate smil:dur="0.5s" smil:fill="hold" smil:targetElement="id15" smil:attributeName="height" smil:values="0;height" smil:keyTimes="0;1"/>
-         <anim:transitionFilter smil:dur="0.5s" smil:targetElement="id15" smil:type="fade" smil:subtype="crossfade"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="exit" presentation:preset-id="ooo-exit-contract">
          <anim:animate smil:dur="1s" smil:targetElement="id13" smil:attributeName="width" smil:values="width;width*0.70" smil:keyTimes="0;1"/>
          <anim:animate smil:dur="1s" smil:targetElement="id13" smil:attributeName="height" smil:values="height;height" smil:keyTimes="0;1"/>
@@ -41168,57 +41162,58 @@
          <anim:transitionFilter smil:dur="1s" smil:targetElement="id14" smil:type="fade" smil:subtype="crossfade" smil:mode="out"/>
          <anim:set smil:begin="0.999s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id14" smil:attributeName="visibility" smil:to="hidden"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="exit" presentation:preset-id="ooo-exit-contract">
-         <anim:animate smil:dur="1s" smil:targetElement="id15" smil:attributeName="width" smil:values="width;width*0.70" smil:keyTimes="0;1"/>
-         <anim:animate smil:dur="1s" smil:targetElement="id15" smil:attributeName="height" smil:values="height;height" smil:keyTimes="0;1"/>
-         <anim:transitionFilter smil:dur="1s" smil:targetElement="id15" smil:type="fade" smil:subtype="crossfade" smil:mode="out"/>
-         <anim:set smil:begin="0.999s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id15" smil:attributeName="visibility" smil:to="hidden"/>
-        </anim:par>
        </anim:par>
       </anim:par>
      </anim:seq>
     </anim:par>
     <presentation:notes draw:style-name="dp2">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="27" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P35" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P34" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
       <draw:text-box>
-       <text:p text:style-name="P34"><text:span text:style-name="T11">RIGHT BRAIN → motivación intrínseca</text:span></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11">LEFT BRAIN → motivación extrínseca</text:span></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11"/></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11">De forma innata tendemos a aprendrer utilizando principios motivadores intrínsecos:</text:span></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11"/></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11">7: curiosidad y impredicibilidad.</text:span></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11"/></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11">3. creatividad y retroalimentación. </text:span></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11"/></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11">Pero el sistema educativo nos cambia pronto al modo extrínseco:</text:span></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11"/></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11">2. Desarrollo y cumplimiento: obtener buenas notas, calmar a profesores y padres.</text:span></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11">4. Propiedad y posesión: diplomas</text:span></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11"/></text:p>
-       <text:p text:style-name="P34"><text:span text:style-name="T11">PROBLEMA: nos olvidamos de la motivación intrínseca de aprender y nos guiamos casi exclusivamente por las notas.</text:span></text:p>
+       <text:p><text:span text:style-name="T11">RIGHT BRAIN → motivación intrínseca</text:span></text:p>
+       <text:p><text:span text:style-name="T11">LEFT BRAIN → motivación extrínseca</text:span></text:p>
+       <text:p><text:span text:style-name="T11"/></text:p>
+       <text:p><text:span text:style-name="T11">De forma innata tendemos a aprendrer utilizando principios motivadores intrínsecos:</text:span></text:p>
+       <text:p><text:span text:style-name="T11"/></text:p>
+       <text:p><text:span text:style-name="T11">7: curiosidad y impredicibilidad.</text:span></text:p>
+       <text:p><text:span text:style-name="T11"/></text:p>
+       <text:p><text:span text:style-name="T11">3. creatividad y retroalimentación. </text:span></text:p>
+       <text:p><text:span text:style-name="T11"/></text:p>
+       <text:p><text:span text:style-name="T11">Pero el sistema educativo nos cambia pronto al modo extrínseco:</text:span></text:p>
+       <text:p><text:span text:style-name="T11"/></text:p>
+       <text:p><text:span text:style-name="T11">2. Desarrollo y cumplimiento: obtener buenas notas, calmar a profesores y padres.</text:span></text:p>
+       <text:p><text:span text:style-name="T11">4. Propiedad y posesión: diplomas</text:span></text:p>
+       <text:p><text:span text:style-name="T11"/></text:p>
+       <text:p><text:span text:style-name="T11">PROBLEMA: nos olvidamos de la motivación intrínseca de aprender y nos guiamos casi exclusivamente por las notas.</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page28" draw:style-name="dp3" draw:master-page-name="Predeterminado" presentation:presentation-page-layout-name="AL1T32">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr4" draw:text-style-name="P7" draw:layer="layout" svg:width="25.199cm" svg:height="16.255cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="subtitle">
+     <draw:text-box>
+      <text:p>VALE, PERO POR DONDE EMPEZAMOS?</text:p>
+     </draw:text-box>
+    </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="28" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr14" draw:text-style-name="P36" draw:layer="layout" svg:width="16.799cm" svg:height="14.693cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
       <draw:text-box>
-       <text:p/>
-       <text:p/>
-       <text:p/>
-       <text:p/>
-       <text:p/>
-       <text:p/>
-       <text:p/>
-       <text:p>Movimiento de motivaciones intrínsecas a extrínsecas → los alumnos, padres y profesores</text:p>
-       <text:p/>
-       <text:p/>
+       <text:p text:style-name="P35"><text:span text:style-name="T12">Pasos:</text:span></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12"/></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12">1.- Analizar mis actividades y ver que principios motivadores activan.</text:span></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12"/></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12">2.- Ver si tenemos un desequilibrio: demasiado left brain o black hat.</text:span></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12"/></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12">3.- Empezar buscando técnicas white hat y right brain si no las teníamos.</text:span></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12"/></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12">4.- Aplicar técnicas black-hat y left-brain siempre que <text:s/>tengan menos peso que las técnicas white-hat y right-brain.</text:span></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12"/></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12">5.- Utilizar black-hat y left-brain como último recurso cuando no conseguimos que las actividades sean divertidas por sí mismas. </text:span></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12"/></text:p>
+       <text:p text:style-name="P35"><text:span text:style-name="T12">6.- Analizar resultados. Feedback de los alumnos.</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </presentation:notes>
@@ -41331,7 +41326,7 @@
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:p><text:span text:style-name="T12">Calificación más alta → white hat</text:span></text:p>
+             <text:p><text:span text:style-name="T13">Calificación más alta → white hat</text:span></text:p>
             </text:list-item>
             <text:list-item>
              <text:p>Promedio de calificaciones → black/white hat (</text:p>
